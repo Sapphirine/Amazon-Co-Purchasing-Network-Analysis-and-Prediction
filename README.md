@@ -10,7 +10,7 @@ Group ID: 201612-15 Group Members: Ke Ma(km3194) Xinwei Li(xl2601) Qi Chen(qc221
 + Qi Chen (qc2217@columbia.edu)
 
 ## Introduction
-
++ The problem we would like to solve is to predict whether two items will be co-purchased given their basic information including product title, customer rating, and product category. Also we want to see how accurate the algorithms/models we employ can produce.
 
 ## Environments
 
@@ -32,8 +32,8 @@ Group ID: 201612-15 Group Members: Ke Ma(km3194) Xinwei Li(xl2601) Qi Chen(qc221
   (https://github.com/Sapphirine/Amazon-Co-Purchasing-Network-Analysis-and-Prediction/tree/master/data_csv)
 + The folder contains the labeled dataset similar to dataset above except it specifies the corresponding pairs as the first column of the csv file.
 
-### Result
-+ [./Result/]
+### Graph
++ [./graph/]
   (https://github.com/Sapphirine/Amazon-Co-Purchasing-Network-Analysis-and-Prediction/tree/master/graph)
 + In this folder, we visualize our result in Gephi
 
