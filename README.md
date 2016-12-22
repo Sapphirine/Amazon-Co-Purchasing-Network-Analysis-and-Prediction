@@ -34,8 +34,8 @@ Group ID: 201612-15 Group Members: Ke Ma(km3194) Xinwei Li(xl2601) Qi Chen(qc221
 
 ### Result
 + [./Result/]
-  (https://github.com/Sapphirine/Exploring-the-Power-of-Yelp-Review-for-Business-Popularity/tree/master/graph)
+  (https://github.com/Sapphirine/Amazon-Co-Purchasing-Network-Analysis-and-Prediction/tree/master/graph)
 + In this folder, we visualize our result in Gephi
 
 ### Our video
-+ Video (https://youtu.be/PgkEn_R6jew)
++ [Presentation Video] (https://youtu.be/PgkEn_R6jew)
